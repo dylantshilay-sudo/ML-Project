@@ -82,22 +82,6 @@ Building this project allowed me to improve my understanding of:
 
 ---
 
-## API Documentation
-
-Interactive Swagger documentation is available here:
-
-**https://web-production-c411b0.up.railway.app/docs**
-
----
-
-## Live Demo
-
-The project is deployed on Railway:
-
-**https://fintechwallet.up.railway.app/**
-
----
-
 ## Purpose
 
 This project is part of my backend engineering portfolio.
