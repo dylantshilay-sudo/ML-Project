@@ -2,7 +2,7 @@ import java.text.NumberFormat;
 import java.util.Scanner;
 
 
-public class Main {
+public class FinanceTracker {
     public static void main(String[] args){
         Scanner scanner  =  new Scanner(System.in);
         System.out.print("What is your name? ");
